@@ -64,7 +64,7 @@ pycparser==2.19
 pycrypto==2.6.1
 pycryptodome==3.9.7
 pycryptodomex==3.9.7
-Pygments==2.6.1
+Pygments==2.7.4
 pylint==2.2.2
 pyscreenshot==2.2
 PySocks==1.7.1
