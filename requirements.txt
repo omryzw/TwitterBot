@@ -54,7 +54,7 @@ opencv-contrib-python==4.0.0.21
 opencv-python==4.2.0.34
 opencv-python-headless==4.2.0.34
 pandas==1.0.4
-Pillow==6.2.1
+Pillow==8.3.2
 prettytable==0.7.2
 protobuf==3.10.0
 pyasn1==0.4.7
