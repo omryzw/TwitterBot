@@ -88,7 +88,7 @@ tinysegmenter==0.3
 tldextract==2.2.2
 tweepy==3.9.0
 tzlocal==2.1
-urllib3==1.25.3
+urllib3==1.26.5
 virtualenv==20.0.10
 Werkzeug==0.16.0
 wrapt==1.11.0
